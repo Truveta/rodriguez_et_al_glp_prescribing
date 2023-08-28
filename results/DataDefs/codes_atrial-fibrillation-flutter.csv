@@ -1,0 +1,34 @@
+CodeSystem,ConceptCode,ConceptName
+ICD10CM,I48.0,Paroxysmal atrial fibrillation
+ICD10CM,I48.11,Longstanding persistent atrial fibrillation
+ICD10CM,I48.19,Other persistent atrial fibrillation
+ICD10CM,I48.20,"Chronic atrial fibrillation, unspecified"
+ICD10CM,I48.21,Permanent atrial fibrillation
+ICD10CM,I48.3,Typical atrial flutter
+ICD10CM,I48.4,Atypical atrial flutter
+ICD10CM,I48.91,Unspecified atrial fibrillation
+ICD10CM,I48.92,Unspecified atrial flutter
+ICD9CM,427.31,Atrial fibrillation
+ICD9CM,427.32,Atrial flutter
+SNOMED CT,300996004,Controlled atrial fibrillation
+SNOMED CT,314208002,Rapid atrial fibrillation
+SNOMED CT,425615007,Chronic atrial flutter
+SNOMED CT,426749004,Chronic atrial fibrillation
+SNOMED CT,426814001,Transient cerebral ischemia due to atrial fibrillation
+SNOMED CT,427665004,Paroxysmal atrial flutter
+SNOMED CT,440028005,Permanent atrial fibrillation
+SNOMED CT,440059007,Persistent atrial fibrillation
+SNOMED CT,195080001,Atrial fibrillation and flutter
+SNOMED CT,233910005,Lone atrial fibrillation
+SNOMED CT,233911009,Non-rheumatic atrial fibrillation
+SNOMED CT,282825002,Paroxysmal atrial fibrillation
+SNOMED CT,5370000,Atrial flutter
+SNOMED CT,49436004,Atrial fibrillation
+SNOMED CT,706923002,Longstanding persistent atrial fibrillation
+SNOMED CT,715395008,Familial atrial fibrillation
+SNOMED CT,720448006,Typical atrial flutter
+SNOMED CT,120041000119109,Atrial fibrillation with rapid ventricular response
+SNOMED CT,15964901000119107,Atypical atrial flutter
+SNOMED CT,1010405004,Paroxysmal atrial fibrillation with rapid ventricular response
+SNOMED CT,715560009,Idiopathic neonatal atrial flutter
+SNOMED CT,762247006,Preexcited atrial fibrillation

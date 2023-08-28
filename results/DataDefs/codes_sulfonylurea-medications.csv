@@ -1,0 +1,390 @@
+CodeSystem,ConceptCode,ConceptName
+RxNorm,10633,tolazamide
+RxNorm,25789,glimepiride
+RxNorm,4815,glyburide
+RxNorm,4821,glipizide
+RxNorm,541897,Glyburide Oral Tablet [Glyguride]
+RxNorm,575997,Glipizide 5 MG / Metformin 500 MG [metaglip]
+RxNorm,615211,glimepiride / rosiglitazone Oral Tablet [Avandaryl]
+RxNorm,668563,glimepiride 4 MG / pioglitazone 30 MG Oral Tablet [Duetact]
+RxNorm,706933,glimepiride 2 MG / rosiglitazone 8 MG Oral Tablet [Avandaryl]
+RxNorm,668555,glimepiride / pioglitazone Oral Tablet [Duetact]
+RxNorm,615918,glimepiride 4 MG / rosiglitazone 4 MG [Avandaryl]
+RxNorm,615212,glimepiride 1 MG / rosiglitazone 4 MG Oral Tablet [Avandaryl]
+RxNorm,668554,glimepiride 2 MG / pioglitazone 30 MG [Duetact]
+RxNorm,668562,glimepiride 4 MG / pioglitazone 30 MG [Duetact]
+RxNorm,700836,Glipizide 5 MG Extended Release Tablet
+RxNorm,706932,glimepiride 2 MG / rosiglitazone 8 MG [Avandaryl]
+RxNorm,731456,glimepiride / pioglitazone Oral Tablet [Duetact 30/4]
+RxNorm,615214,glimepiride 2 MG / rosiglitazone 4 MG Oral Tablet [Avandaryl]
+RxNorm,615919,glimepiride 4 MG / rosiglitazone 4 MG Oral Tablet [Avandaryl]
+RxNorm,615210,glimepiride 1 MG / rosiglitazone 4 MG [Avandaryl]
+RxNorm,668556,glimepiride 2 MG / pioglitazone 30 MG Oral Tablet [Duetact]
+RxNorm,847723,glimepiride / rosiglitazone Oral Tablet [Avandaryl 8/4]
+RxNorm,847719,glimepiride / rosiglitazone Oral Tablet [Avandaryl 8/2]
+RxNorm,707181,glimepiride 4 MG / rosiglitazone 8 MG [Avandaryl]
+RxNorm,615213,glimepiride 2 MG / rosiglitazone 4 MG [Avandaryl]
+RxNorm,707182,glimepiride 4 MG / rosiglitazone 8 MG Oral Tablet [Avandaryl]
+RxNorm,849593,Glipizide / Metformin Oral Tablet [Metaglip 2.5 MG/500 MG]
+RxNorm,847715,glimepiride / rosiglitazone Oral Tablet [Avandaryl 4/1]
+RxNorm,847711,glimepiride / rosiglitazone Oral Tablet [Avandaryl 4/2]
+RxNorm,849589,Glipizide / Metformin Oral Tablet [Metaglip 5 MG/500 MG]
+RxNorm,861746,Glyburide / Metformin Oral Tablet [Glucovance 1.25 MG/250 MG]
+RxNorm,861751,Glyburide / Metformin Oral Tablet [Glucovance 2.5 MG/500 MG]
+RxNorm,1185627,Metaglip 5 MG/500 MG Oral Product
+RxNorm,1175663,Avandaryl 8/2 Pill
+RxNorm,1175657,Avandaryl 4/1 Pill
+RxNorm,1175661,Avandaryl 4/4 Pill
+RxNorm,1185628,Metaglip 5 MG/500 MG Pill
+RxNorm,1175664,Avandaryl 8/4 Oral Product
+RxNorm,1166405,Duetact 30/4 Oral Product
+RxNorm,1185625,Metaglip 2.5 MG/500 MG Oral Product
+RxNorm,1171251,Glucovance 2.5 MG/500 MG Pill
+RxNorm,1166406,Duetact 30/4 Pill
+RxNorm,1185626,Metaglip 2.5 MG/500 MG Pill
+RxNorm,1175660,Avandaryl 4/4 Oral Product
+RxNorm,1175662,Avandaryl 8/2 Oral Product
+RxNorm,1171253,Glucovance 5 MG/500 MG Pill
+RxNorm,1171250,Glucovance 2.5 MG/500 MG Oral Product
+RxNorm,1175665,Avandaryl 8/4 Pill
+RxNorm,1171252,Glucovance 5 MG/500 MG Oral Product
+RxNorm,1175656,Avandaryl 4/1 Oral Product
+RxNorm,1008873,glyburide / phenformin
+RxNorm,102845,glyburide 5 MG Oral Tablet [Daonil]
+RxNorm,105371,glyburide 2.5 MG Oral Tablet [Calabren]
+RxNorm,105372,glyburide 5 MG Oral Tablet [Calabren]
+RxNorm,105373,glipizide 5 MG Oral Tablet [Minidiab]
+RxNorm,1157121,tolazamide Oral Product
+RxNorm,1157122,tolazamide Pill
+RxNorm,1156197,glyburide / metformin Pill
+RxNorm,1156198,glyburide / phenformin Oral Product
+RxNorm,1156199,glyburide / phenformin Pill
+RxNorm,1156200,glyburide Oral Product
+RxNorm,1156201,glyburide Pill
+RxNorm,1157240,glimepiride / pioglitazone Oral Product
+RxNorm,1157241,glimepiride / pioglitazone Pill
+RxNorm,1157242,glimepiride / rosiglitazone Oral Product
+RxNorm,1157243,glimepiride / rosiglitazone Pill
+RxNorm,1157244,glimepiride Oral Product
+RxNorm,1157245,glimepiride Pill
+RxNorm,1166403,Duetact Oral Product
+RxNorm,1166404,Duetact Pill
+RxNorm,1165205,glipizide / metformin Oral Product
+RxNorm,1165206,glipizide / metformin Pill
+RxNorm,1165207,glipizide Oral Product
+RxNorm,1165208,glipizide Pill
+RxNorm,1165845,glyburide / metformin Oral Product
+RxNorm,1170663,Amaryl Oral Product
+RxNorm,1170664,Amaryl Pill
+RxNorm,1170866,Calabren Oral Product
+RxNorm,1170867,Calabren Pill
+RxNorm,1171148,Euglucon Oral Product
+RxNorm,1171149,Euglucon Pill
+RxNorm,1171233,Glibenese Oral Product
+RxNorm,1171234,Glibenese Pill
+RxNorm,1171246,Glucotrol Oral Product
+RxNorm,1171247,Glucotrol Pill
+RxNorm,1171248,Glucovance Oral Product
+RxNorm,1171249,Glucovance Pill
+RxNorm,1171929,Glycron Oral Product
+RxNorm,1171930,Glycron Pill
+RxNorm,1171933,Glynase Oral Product
+RxNorm,1171934,Glynase Pill
+RxNorm,1171919,Glyburase Oral Product
+RxNorm,1171920,Glyburase Pill
+RxNorm,1175658,Avandaryl Oral Product
+RxNorm,1175659,Avandaryl Pill
+RxNorm,1175878,Diabeta Oral Product
+RxNorm,1175879,Diabeta Pill
+RxNorm,1175880,Diabetamide Oral Product
+RxNorm,1175881,Diabetamide Pill
+RxNorm,1168162,Daonil Oral Product
+RxNorm,1168163,Daonil Pill
+RxNorm,1179291,Minidiab Oral Product
+RxNorm,1179292,Minidiab Pill
+RxNorm,1185049,Metaglip Oral Product
+RxNorm,1179740,Malix Oral Product
+RxNorm,1179741,Malix Pill
+RxNorm,1177973,Tolinase Oral Product
+RxNorm,1177974,Tolinase Pill
+RxNorm,1186169,Libanil Oral Product
+RxNorm,1186170,Libanil Pill
+RxNorm,1178082,Micronase Oral Product
+RxNorm,1178083,Micronase Pill
+RxNorm,1178368,Semi-Daonil Oral Product
+RxNorm,1178369,Semi-Daonil Pill
+RxNorm,1185624,Metaglip Pill
+RxNorm,1361492,glimepiride 6 MG
+RxNorm,1361493,glimepiride 6 MG Oral Tablet
+RxNorm,1361494,glimepiride 8 MG
+RxNorm,1361495,glimepiride 8 MG Oral Tablet
+RxNorm,151466,Calabren
+RxNorm,151615,Diabetamide
+RxNorm,151725,Euglucon
+RxNorm,151822,Glibenese
+RxNorm,153842,glimepiride 3 MG Oral Tablet
+RxNorm,153843,glimepiride 1 MG Oral Tablet [Amaryl]
+RxNorm,153844,glimepiride 3 MG Oral Tablet [Amaryl]
+RxNorm,153845,glimepiride 4 MG Oral Tablet [Amaryl]
+RxNorm,152651,Malix
+RxNorm,153591,glimepiride 2 MG Oral Tablet [Amaryl]
+RxNorm,153592,Amaryl
+RxNorm,197737,glyburide 1.25 MG Oral Tablet
+RxNorm,199245,glimepiride 1 MG Oral Tablet
+RxNorm,199246,glimepiride 2 MG Oral Tablet
+RxNorm,199247,glimepiride 4 MG Oral Tablet
+RxNorm,198291,tolazamide 100 MG Oral Tablet
+RxNorm,198292,tolazamide 250 MG Oral Tablet
+RxNorm,198293,tolazamide 500 MG Oral Tablet
+RxNorm,203289,Micronase
+RxNorm,203295,Diabeta
+RxNorm,203296,Daonil
+RxNorm,201921,glipizide 5 MG Oral Tablet [Glibenese]
+RxNorm,201922,glipizide 2.5 MG Oral Tablet [Minidiab]
+RxNorm,203679,Minidiab
+RxNorm,203680,Glucotrol
+RxNorm,201056,glyburide 2.5 MG Oral Tablet [Libanil]
+RxNorm,201057,glyburide 2.5 MG Oral Tablet [Semi-Daonil]
+RxNorm,201058,glyburide 2.5 MG Oral Tablet [Euglucon]
+RxNorm,201059,glyburide 2.5 MG Oral Tablet [Malix]
+RxNorm,201060,glyburide 2.5 MG Oral Tablet [Diabetamide]
+RxNorm,201061,glyburide 5 MG Oral Tablet [Libanil]
+RxNorm,201062,glyburide 5 MG Oral Tablet [Euglucon]
+RxNorm,201063,glyburide 5 MG Oral Tablet [Malix]
+RxNorm,201064,glyburide 5 MG Oral Tablet [Diabetamide]
+RxNorm,205828,glipizide 5 MG Oral Tablet [Glucotrol]
+RxNorm,205830,glipizide 10 MG Oral Tablet [Glucotrol]
+RxNorm,205872,glyburide 1.25 MG Oral Tablet [Diabeta]
+RxNorm,205873,glyburide 1.25 MG Oral Tablet [Micronase]
+RxNorm,205875,glyburide 2.5 MG Oral Tablet [Diabeta]
+RxNorm,205876,glyburide 2.5 MG Oral Tablet [Micronase]
+RxNorm,205879,glyburide 5 MG Oral Tablet [Diabeta]
+RxNorm,205880,glyburide 5 MG Oral Tablet [Micronase]
+RxNorm,207953,tolazamide 100 MG Oral Tablet [Tolinase]
+RxNorm,207954,tolazamide 250 MG Oral Tablet [Tolinase]
+RxNorm,207955,tolazamide 500 MG Oral Tablet [Tolinase]
+RxNorm,220338,Tolinase
+RxNorm,225613,Semi-Daonil
+RxNorm,246391,glyburide 2.5 MG / phenformin 25 MG Oral Tablet
+RxNorm,246524,glyburide 5 MG / phenformin 50 MG Oral Tablet
+RxNorm,250919,glyburide 2.5 MG / metformin 400 MG Oral Tablet
+RxNorm,284743,Glucovance
+RxNorm,261351,glyburide 4.5 MG Oral Tablet [Glycron]
+RxNorm,252960,glyburide 4.5 MG Oral Tablet
+RxNorm,285129,glyburide / metformin
+RxNorm,261532,Glycron
+RxNorm,261974,glyburide 3 MG Oral Tablet [Glycron]
+RxNorm,260286,glyburide 1.5 MG Oral Tablet [Glycron]
+RxNorm,260287,glyburide 6 MG Oral Tablet [Glycron]
+RxNorm,310488,glipizide 10 MG Oral Tablet
+RxNorm,310489,24 HR glipizide 2.5 MG Extended Release Oral Tablet
+RxNorm,310490,glipizide 5 MG Oral Tablet
+RxNorm,310534,glyburide 2.5 MG Oral Tablet
+RxNorm,310536,glyburide 3 MG Oral Tablet
+RxNorm,310537,glyburide 5 MG Oral Tablet
+RxNorm,310539,glyburide 6 MG Oral Tablet
+RxNorm,313418,tolazamide 250 MG Oral Capsule
+RxNorm,314000,glyburide 1.5 MG Oral Tablet
+RxNorm,314006,24 HR glipizide 5 MG Extended Release Oral Tablet
+RxNorm,315107,24 HR glipizide 10 MG Extended Release Oral Tablet
+RxNorm,316832,tolazamide 100 MG
+RxNorm,316833,tolazamide 250 MG
+RxNorm,316834,tolazamide 500 MG
+RxNorm,315978,glimepiride 1 MG
+RxNorm,315979,glimepiride 4 MG
+RxNorm,315980,glipizide 5 MG
+RxNorm,315987,glyburide 1.25 MG
+RxNorm,315988,glyburide 1.5 MG
+RxNorm,315989,glyburide 2.5 MG
+RxNorm,315990,glyburide 3 MG
+RxNorm,315991,glyburide 5 MG
+RxNorm,315992,glyburide 6 MG
+RxNorm,317379,glipizide 10 MG
+RxNorm,317637,glimepiride 2 MG
+RxNorm,331496,glyburide 4.5 MG
+RxNorm,330349,glipizide 2.5 MG
+RxNorm,352381,glipizide / metformin
+RxNorm,352764,Metaglip
+RxNorm,367762,glimepiride Oral Tablet [Amaryl]
+RxNorm,368204,glyburide Oral Tablet [Glycron]
+RxNorm,369304,tolazamide Oral Tablet [Tolinase]
+RxNorm,369373,glyburide Oral Tablet [Diabeta]
+RxNorm,369500,glipizide Oral Tablet [Glucotrol]
+RxNorm,369557,glyburide Oral Tablet [Semi-Daonil]
+RxNorm,369562,glyburide Oral Tablet [Daonil]
+RxNorm,374635,glyburide / metformin Oral Tablet
+RxNorm,375952,tolazamide Oral Capsule
+RxNorm,379803,glipizide Oral Tablet [Glibenese]
+RxNorm,379804,glipizide 2.5 MG Oral Tablet
+RxNorm,380849,glimepiride 3 MG
+RxNorm,372319,glimepiride Oral Tablet
+RxNorm,372320,glipizide Oral Tablet
+RxNorm,372333,glyburide Oral Tablet
+RxNorm,372334,glyburide / phenformin Oral Tablet
+RxNorm,378730,glipizide / metformin Oral Tablet
+RxNorm,374149,tolazamide Oral Tablet
+RxNorm,379559,glyburide Oral Tablet [Euglucon]
+RxNorm,379565,glyburide Oral Tablet [Diabetamide]
+RxNorm,379568,glyburide Oral Tablet [Malix]
+RxNorm,379570,glyburide Oral Tablet [Calabren]
+RxNorm,379571,Libanil
+RxNorm,379572,glyburide Oral Tablet [Libanil]
+RxNorm,379802,glipizide Oral Tablet [Minidiab]
+RxNorm,429841,glyburide 5 MG / metformin 1000 MG Oral Tablet
+RxNorm,430102,glyburide 3.5 MG Oral Tablet
+RxNorm,430103,glyburide 1.75 MG Oral Tablet
+RxNorm,430104,glyburide 1 MG Oral Tablet
+RxNorm,440285,glyburide 1.75 MG
+RxNorm,440286,glyburide 1 MG
+RxNorm,440287,glyburide 3.5 MG
+RxNorm,563154,glyburide 5 MG [Daonil]
+RxNorm,566056,glipizide 5 MG [Glibenese]
+RxNorm,566057,glipizide 2.5 MG [Minidiab]
+RxNorm,565327,glimepiride 2 MG [Amaryl]
+RxNorm,565408,glimepiride 1 MG [Amaryl]
+RxNorm,565409,glimepiride 3 MG [Amaryl]
+RxNorm,565410,glimepiride 4 MG [Amaryl]
+RxNorm,568684,tolazamide 100 MG [Tolinase]
+RxNorm,568685,tolazamide 250 MG [Tolinase]
+RxNorm,568686,tolazamide 500 MG [Tolinase]
+RxNorm,564036,glyburide 2.5 MG [Calabren]
+RxNorm,564037,glyburide 5 MG [Calabren]
+RxNorm,564038,glipizide 5 MG [Minidiab]
+RxNorm,566718,glipizide 5 MG [Glucotrol]
+RxNorm,566720,glipizide 10 MG [Glucotrol]
+RxNorm,566761,glyburide 1.25 MG [Diabeta]
+RxNorm,566762,glyburide 1.25 MG [Micronase]
+RxNorm,566764,glyburide 2.5 MG [Diabeta]
+RxNorm,566765,glyburide 2.5 MG [Micronase]
+RxNorm,566768,glyburide 5 MG [Diabeta]
+RxNorm,566769,glyburide 5 MG [Micronase]
+RxNorm,565667,glyburide 2.5 MG [Libanil]
+RxNorm,565668,glyburide 2.5 MG [Semi-Daonil]
+RxNorm,565669,glyburide 2.5 MG [Euglucon]
+RxNorm,565670,glyburide 2.5 MG [Malix]
+RxNorm,565671,glyburide 2.5 MG [Diabetamide]
+RxNorm,565672,glyburide 5 MG [Libanil]
+RxNorm,565673,glyburide 5 MG [Euglucon]
+RxNorm,565674,glyburide 5 MG [Malix]
+RxNorm,565675,glyburide 5 MG [Diabetamide]
+RxNorm,574612,glyburide 3 MG [Glycron]
+RxNorm,606253,glimepiride / rosiglitazone
+RxNorm,602543,glimepiride / rosiglitazone Oral Tablet
+RxNorm,602544,glimepiride 1 MG / rosiglitazone 4 MG Oral Tablet
+RxNorm,602549,glimepiride 2 MG / rosiglitazone 4 MG Oral Tablet
+RxNorm,602550,glimepiride 4 MG / rosiglitazone 4 MG Oral Tablet
+RxNorm,607816,Avandaryl
+RxNorm,574089,glyburide 1.5 MG [Glycron]
+RxNorm,574090,glyburide 6 MG [Glycron]
+RxNorm,574571,glyburide 4.5 MG [Glycron]
+RxNorm,669980,Glyburase
+RxNorm,669981,glyburide 1.25 MG [Glyburase]
+RxNorm,669982,glyburide Oral Tablet [Glyburase]
+RxNorm,669983,glyburide 1.25 MG Oral Tablet [Glyburase]
+RxNorm,669984,glyburide 2.5 MG [Glyburase]
+RxNorm,669985,glyburide 2.5 MG Oral Tablet [Glyburase]
+RxNorm,669986,glyburide 5 MG [Glyburase]
+RxNorm,669987,glyburide 5 MG Oral Tablet [Glyburase]
+RxNorm,647208,Duetact
+RxNorm,647235,glimepiride / pioglitazone
+RxNorm,647236,glimepiride / pioglitazone Oral Tablet
+RxNorm,647237,glimepiride 2 MG / pioglitazone 30 MG Oral Tablet
+RxNorm,647239,glimepiride 4 MG / pioglitazone 30 MG Oral Tablet
+RxNorm,700835,glipizide Extended Release Oral Tablet
+RxNorm,706895,glimepiride 2 MG / rosiglitazone 8 MG Oral Tablet
+RxNorm,706896,glimepiride 4 MG / rosiglitazone 8 MG Oral Tablet
+RxNorm,731455,glimepiride 4 MG / pioglitazone 30 MG [Duetact]
+RxNorm,731457,glimepiride 4 MG / pioglitazone 30 MG Oral Tablet [Duetact]
+RxNorm,731461,glimepiride 2 MG / pioglitazone 30 MG [Duetact]
+RxNorm,731462,glimepiride / pioglitazone Oral Tablet [Duetact]
+RxNorm,731463,glimepiride 2 MG / pioglitazone 30 MG Oral Tablet [Duetact]
+RxNorm,844809,glipizide 2.5 MG Extended Release Oral Tablet
+RxNorm,844824,glipizide 5 MG Extended Release Oral Tablet
+RxNorm,844827,glipizide 10 MG Extended Release Oral Tablet
+RxNorm,849585,glipizide / metformin Oral Tablet [Metaglip]
+RxNorm,847708,glimepiride 4 MG / rosiglitazone 4 MG Oral Tablet [Avandaryl]
+RxNorm,847706,glimepiride 4 MG / rosiglitazone 4 MG [Avandaryl]
+RxNorm,847707,glimepiride / rosiglitazone Oral Tablet [Avandaryl]
+RxNorm,847710,glimepiride 2 MG / rosiglitazone 4 MG [Avandaryl]
+RxNorm,847712,glimepiride 2 MG / rosiglitazone 4 MG Oral Tablet [Avandaryl]
+RxNorm,847714,glimepiride 1 MG / rosiglitazone 4 MG [Avandaryl]
+RxNorm,847716,glimepiride 1 MG / rosiglitazone 4 MG Oral Tablet [Avandaryl]
+RxNorm,847718,glimepiride 2 MG / rosiglitazone 8 MG [Avandaryl]
+RxNorm,847720,glimepiride 2 MG / rosiglitazone 8 MG Oral Tablet [Avandaryl]
+RxNorm,847722,glimepiride 4 MG / rosiglitazone 8 MG [Avandaryl]
+RxNorm,847724,glimepiride 4 MG / rosiglitazone 8 MG Oral Tablet [Avandaryl]
+RxNorm,861731,glipizide 2.5 MG / metformin hydrochloride 250 MG Oral Tablet
+RxNorm,861732,glipizide 2.5 MG / metformin hydrochloride 250 MG [Metaglip]
+RxNorm,861733,glipizide 2.5 MG / metformin hydrochloride 250 MG Oral Tablet [Metaglip]
+RxNorm,861736,glipizide 2.5 MG / metformin hydrochloride 500 MG Oral Tablet
+RxNorm,861737,glipizide 2.5 MG / metformin hydrochloride 500 MG [Metaglip]
+RxNorm,861738,glipizide 2.5 MG / metformin hydrochloride 500 MG Oral Tablet [Metaglip]
+RxNorm,861740,glipizide 5 MG / metformin hydrochloride 500 MG Oral Tablet
+RxNorm,861741,glipizide 5 MG / metformin hydrochloride 500 MG [Metaglip]
+RxNorm,861742,glipizide 5 MG / metformin hydrochloride 500 MG Oral Tablet [Metaglip]
+RxNorm,861743,glyburide 1.25 MG / metformin hydrochloride 250 MG Oral Tablet
+RxNorm,861745,glyburide 1.25 MG / metformin hydrochloride 250 MG [Glucovance]
+RxNorm,861747,glyburide 1.25 MG / metformin hydrochloride 250 MG Oral Tablet [Glucovance]
+RxNorm,861748,glyburide 2.5 MG / metformin hydrochloride 500 MG Oral Tablet
+RxNorm,861750,glyburide 2.5 MG / metformin hydrochloride 500 MG [Glucovance]
+RxNorm,861752,glyburide 2.5 MG / metformin hydrochloride 500 MG Oral Tablet [Glucovance]
+RxNorm,861753,glyburide 5 MG / metformin hydrochloride 500 MG Oral Tablet
+RxNorm,861755,glyburide 5 MG / metformin hydrochloride 500 MG [Glucovance]
+RxNorm,861756,glyburide / metformin Oral Tablet [Glucovance]
+RxNorm,861757,glyburide 5 MG / metformin hydrochloride 500 MG Oral Tablet [Glucovance]
+RxNorm,881404,Glynase
+RxNorm,881405,glyburide 1.5 MG [Glynase]
+RxNorm,881406,glyburide Oral Tablet [Glynase]
+RxNorm,881407,glyburide 1.5 MG Oral Tablet [Glynase]
+RxNorm,881408,glyburide 3 MG [Glynase]
+RxNorm,881409,glyburide 3 MG Oral Tablet [Glynase]
+RxNorm,881410,glyburide 6 MG [Glynase]
+RxNorm,881411,glyburide 6 MG Oral Tablet [Glynase]
+RxNorm,865567,glipizide Extended Release Oral Tablet [Glucotrol]
+RxNorm,865568,24 HR glipizide 10 MG Extended Release Oral Tablet [Glucotrol]
+RxNorm,865569,glipizide 10 MG Extended Release Oral Tablet [Glucotrol]
+RxNorm,865570,glipizide 2.5 MG [Glucotrol]
+RxNorm,865571,24 HR glipizide 2.5 MG Extended Release Oral Tablet [Glucotrol]
+RxNorm,865572,glipizide 2.5 MG Extended Release Oral Tablet [Glucotrol]
+RxNorm,865573,24 HR glipizide 5 MG Extended Release Oral Tablet [Glucotrol]
+RxNorm,865574,glipizide 5 MG Extended Release Oral Tablet [Glucotrol]
+RxNorm,93312,glyburide Oral Tablet [Micronase]
+RxNorm,284433,Glyburide 5 MG / Metformin 500 MG Oral Tablet [Glucovance]
+RxNorm,284432,Glyburide 2.5 MG / Metformin 500 MG Oral Tablet [Glucovance]
+RxNorm,351273,Glipizide 2.5 MG / Metformin 500 MG Oral Tablet
+RxNorm,351275,Glipizide 2.5 MG / Metformin 250 MG Oral Tablet
+RxNorm,261311,Glipizide 2.5 MG 24 Hour Extended Release Tablet [Glucotrol XL]
+RxNorm,205829,Glipizide 5 MG 24 Hour Extended Release Tablet [Glucotrol XL]
+RxNorm,284431,Glyburide 1.25 MG / Metformin 250 MG Oral Tablet [Glucovance]
+RxNorm,205881,Glyburide 6 MG Oral Tablet [Glynase Pres-Tab]
+RxNorm,205877,Glyburide 3 MG Oral Tablet [Glynase Pres-Tab]
+RxNorm,205831,Glipizide 10 MG 24 Hour Extended Release Tablet [Glucotrol XL]
+RxNorm,205874,Glyburide 1.5 MG Oral Tablet [Glynase Pres-Tab]
+RxNorm,351274,Glipizide 5 MG / Metformin 500 MG Oral Tablet
+RxNorm,566719,Glipizide 5 MG [Glucotrol XL]
+RxNorm,566721,Glipizide 10 MG [Glucotrol XL]
+RxNorm,574533,Glipizide 2.5 MG [Glucotrol XL]
+RxNorm,566763,Glyburide 1.5 MG [Glynase Pres-Tab]
+RxNorm,574869,Glyburide 1.25 MG / Metformin 250 MG [Glucovance]
+RxNorm,566770,Glyburide 6 MG [Glynase Pres-Tab]
+RxNorm,574871,Glyburide 5 MG / Metformin 500 MG [Glucovance]
+RxNorm,566766,Glyburide 3 MG [Glynase Pres-Tab]
+RxNorm,574870,Glyburide 2.5 MG / Metformin 500 MG [Glucovance]
+RxNorm,310538,Glyburide 5 MG / Metformin 500 MG Oral Tablet
+RxNorm,310535,Glyburide 2.5 MG / Metformin 500 MG Oral Tablet
+RxNorm,310533,Glyburide 1.25 MG / Metformin 250 MG Oral Tablet
+RxNorm,368567,Glipizide / Metformin Oral Tablet [metaglip]
+RxNorm,352301,Glipizide 5 MG / Metformin 500 MG Oral Tablet [metaglip]
+RxNorm,352302,Glipizide 2.5 MG / Metformin 250 MG Oral Tablet [metaglip]
+RxNorm,379801,Glipizide 24 Hour Extended Release Tablet [Glucotrol XL]
+RxNorm,369372,Glyburide Oral Tablet [Glynase Pres-Tab]
+RxNorm,379805,Glipizide 24 Hour Extended Release Tablet
+RxNorm,368169,Glyburide / Metformin Oral Tablet [Glucovance]
+RxNorm,352300,Glipizide 2.5 MG / Metformin 500 MG Oral Tablet [metaglip]
+RxNorm,541898,Glyburide 1.5 MG Oral Tablet [Glyguride]
+RxNorm,542065,Glyburide 6 MG [Gyburide]
+RxNorm,575998,Glipizide 2.5 MG / Metformin 250 MG [metaglip]
+RxNorm,575996,Glipizide 2.5 MG / Metformin 500 MG [metaglip]
+RxNorm,541896,Glyburide 1.5 MG [Glyguride]
+RxNorm,542067,Glyburide 6 MG Oral Tablet [Gyburide]
+RxNorm,542066,Glyburide Oral Tablet [Gyburide]

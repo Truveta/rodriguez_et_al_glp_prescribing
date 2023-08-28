@@ -1,0 +1,70 @@
+CodeSystem,ConceptCode,ConceptName
+ICD10CM,E78.0,Pure hypercholesterolemia
+ICD10CM,E78.00,"Pure hypercholesterolemia, unspecified"
+ICD10CM,E78.01,Familial hypercholesterolemia
+ICD10CM,E78.1,Pure hyperglyceridemia
+ICD10CM,E78.2,Mixed hyperlipidemia
+ICD10CM,E78.3,Hyperchylomicronemia
+ICD10CM,E78.4,Other hyperlipidemia
+ICD10CM,E78.41,Elevated Lipoprotein(a)
+ICD10CM,E78.49,Other hyperlipidemia
+ICD10CM,E78.5,"Hyperlipidemia, unspecified"
+SNOMED CT,129589009,Endogenous hyperlipidemia
+SNOMED CT,129590000,Exogenous hyperlipidemia
+SNOMED CT,129591001,Mixed hypercholesterolemia and hypertriglyceridemia
+SNOMED CT,190774002,"Hyperlipidemia, group A"
+SNOMED CT,13644009,Hypercholesterolemia
+SNOMED CT,33513003,Familial apoC-II deficiency
+SNOMED CT,34349009,Familial type 5 hyperlipoproteinemia
+SNOMED CT,34528009,Familial hypertriglyceridemia
+SNOMED CT,55822004,Hyperlipidemia
+SNOMED CT,299465007,Familial multiple lipoprotein-type hyperlipidemia
+SNOMED CT,302870006,Hypertriglyceridemia
+SNOMED CT,397915002,Fredrickson type IIa hyperlipoproteinemia
+SNOMED CT,398036000,Familial hypercholesterolemia
+SNOMED CT,402473001,Sporadic primary hypertriglyceridemia
+SNOMED CT,402474007,Primary polygenic type IIb combined hyperlipidemia
+SNOMED CT,402475008,Primary acquired chylomicronemia
+SNOMED CT,402725005,Hyperlipidemia with lipid deposition in skin
+SNOMED CT,402726006,Primary chylomicronemia
+SNOMED CT,402727002,Secondary hyperlipidemia
+SNOMED CT,402785008,Primary genetic hyperlipidemia
+SNOMED CT,402786009,Chylomicronemia syndrome
+SNOMED CT,402787000,Primary genetic mixed hyperlipidemia
+SNOMED CT,403827000,Familial lipoprotein lipase deficiency with type I phenotype
+SNOMED CT,403828005,Familial lipoprotein lipase deficiency with type V phenotype
+SNOMED CT,403831006,Familial Combined Hypercholesterolaemia
+SNOMED CT,426161002,Chemically induced hyperlipidemia
+SNOMED CT,445261005,Posttransplant hyperlipidemia
+SNOMED CT,238040008,Familial combined hyperlipidemia
+SNOMED CT,238076009,Primary hypercholesterolemia
+SNOMED CT,238077000,Polygenic hypercholesterolemia
+SNOMED CT,238078005,Familial hypercholesterolemia - homozygous
+SNOMED CT,238079002,Familial hypercholesterolemia - heterozygous
+SNOMED CT,238080004,Hyperalphalipoproteinemia
+SNOMED CT,238081000,Familial defective apolipoprotein B-100
+SNOMED CT,238082007,Secondary hypercholesterolemia
+SNOMED CT,238083002,Primary hypertriglyceridemia
+SNOMED CT,238084008,Very low density lipoprotinemia
+SNOMED CT,238085009,Fredrickson type IV hyperlipoproteinemia
+SNOMED CT,238087001,Secondary hypertriglyceridemia
+SNOMED CT,238088006,Primary combined hyperlipidemia
+SNOMED CT,238089003,Secondary combined hyperlipidemia
+SNOMED CT,267432004,Pure hypercholesterolemia
+SNOMED CT,267433009,Pure hyperglyceridemia
+SNOMED CT,267434003,Mixed hyperlipidemia
+SNOMED CT,267435002,Familial hyperchylomicronemia
+SNOMED CT,773649005,Transient infantile hypertriglyceridemia and hepatosteatosis
+SNOMED CT,773726000,Hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency
+SNOMED CT,701000119103,Mixed hyperlipidemia due to type 2 diabetes mellitus
+SNOMED CT,1571000119104,Mixed hyperlipidemia due to type 1 diabetes mellitus
+SNOMED CT,15771000119109,Familial hyperalphalipoproteinemia
+SNOMED CT,114831000119107,Hyperlipidemia caused by steroid
+SNOMED CT,137931000119102,Hyperlipidemia due to type 2 diabetes mellitus
+SNOMED CT,137941000119106,Hyperlipidemia due to type 1 diabetes mellitus
+SNOMED CT,403829002,Familial hypercholesterolemia due to heterozygous low density lipoprotein receptor mutation
+SNOMED CT,403830007,Familial hypercholesterolemia due to homozygous low density lipoprotein receptor mutation
+SNOMED CT,767133009,Compound heterozygous familial hypercholesterolemia
+SNOMED CT,1197489003,Familial chylomicronemia syndrome
+SNOMED CT,1208738002,TMEM199 congenital disorder of glycosylation
+SNOMED CT,275598004,"Familial hyperlipoproteinemia, type I"

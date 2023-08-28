@@ -1,0 +1,128 @@
+CodeSystem,ConceptCode,ConceptName
+ICD10CM,M81.6,Localized osteoporosis [Lequesne]
+ICD10CM,M81.0,Age-related osteoporosis without current pathological fracture
+ICD10CM,M81.8,Other osteoporosis without current pathological fracture
+ICD9CM,733.01,Senile osteoporosis
+ICD9CM,733.02,Idiopathic osteoporosis
+ICD9CM,733.03,Disuse osteoporosis
+ICD9CM,733.09,Other osteoporosis
+SNOMED CT,3345002,Idiopathic osteoporosis
+SNOMED CT,14651005,Drug-induced osteoporosis
+SNOMED CT,32369003,Menopausal osteoporosis
+SNOMED CT,53174001,Disuse osteoporosis
+SNOMED CT,64859006,Osteoporosis
+SNOMED CT,311806008,Osteoporotic collapse of cervical vertebra
+SNOMED CT,390833005,Osteoporosis due to corticosteroid
+SNOMED CT,203429007,Idiopathic generalized osteoporosis
+SNOMED CT,203433000,Postoophorectomy osteoporosis
+SNOMED CT,203434006,Post-surgical malabsorption osteoporosis
+SNOMED CT,203435007,Localized osteoporosis - Lequesne
+SNOMED CT,203437004,Osteoporosis in endocrine disorders
+SNOMED CT,203438009,Vertebral osteoporosis
+SNOMED CT,203444008,Postoophorectomy osteoporosis with pathological fracture
+SNOMED CT,203446005,Post-surgical malabsorption osteoporosis with pathological fracture
+SNOMED CT,203657009,Osteoporotic kyphosis
+SNOMED CT,240155001,Adult idiopathic generalized osteoporosis
+SNOMED CT,240157009,Secondary generalized osteoporosis
+SNOMED CT,240158004,Regional migrating osteoporosis
+SNOMED CT,240159007,Transient osteoporosis of hip
+SNOMED CT,240161003,Disappearing bone disease
+SNOMED CT,240162005,Secondary localized osteoporosis
+SNOMED CT,240164006,Post-irradiation osteoporosis
+SNOMED CT,240198002,Osteoporotic vertebral collapse
+SNOMED CT,268028001,Localized disuse osteoporosis
+SNOMED CT,276661002,Primary osteoporosis
+SNOMED CT,281387004,Regional osteoporosis
+SNOMED CT,102447009,Postmenopausal osteoporosis
+SNOMED CT,109346000,Osteoporotic bone marrow defect
+SNOMED CT,699528002,Transient osteoporosis
+SNOMED CT,703264005,Secondary osteoporosis
+SNOMED CT,735617003,Premenopausal idiopathic osteoporosis
+SNOMED CT,735618008,Osteoporosis due to malabsorption
+SNOMED CT,739301006,Osteoporosis co-occurrent and due to multiple myeloma
+SNOMED CT,1515008,Massive osteolysis
+SNOMED CT,18040001,Type II osteoporosis
+SNOMED CT,311890007,Osteoporotic collapse of lumbar vertebra
+SNOMED CT,311891006,Osteoporotic collapse of thoracic vertebra
+SNOMED CT,431031001,Osteoporotic fracture of neck of femur
+SNOMED CT,443165006,Osteoporotic fracture
+SNOMED CT,203445009,Osteoporosis of disuse with pathological fracture
+SNOMED CT,203447001,Drug-induced osteoporosis with pathological fracture
+SNOMED CT,203448006,Idiopathic osteoporosis with pathological fracture
+SNOMED CT,203450003,Osteoporotic fracture of lumbar vertebra
+SNOMED CT,203451004,Osteoporotic fracture of thoracic vertebra
+SNOMED CT,203452006,Osteoporotic fracture of cervical vertebra
+SNOMED CT,203453001,Postmenopausal osteoporosis with pathological fracture
+SNOMED CT,240154002,Idiopathic osteoporosis in pregnancy
+SNOMED CT,240156000,Juvenile idiopathic generalized osteoporosis
+SNOMED CT,240160002,Transient osteoporosis of hip in pregnancy
+SNOMED CT,897308007,Chronic kidney disease with osteoporosis
+SNOMED CT,704282002,Secondary osteoporotic fracture of ulna
+SNOMED CT,704283007,Secondary osteoporotic fracture of tibia
+SNOMED CT,704284001,Secondary osteoporotic fracture of scapula
+SNOMED CT,704285000,Secondary osteoporotic fracture of radius
+SNOMED CT,704286004,Secondary osteoporotic fracture of humerus
+SNOMED CT,704287008,Secondary osteoporotic fracture of proximal femur
+SNOMED CT,704288003,Secondary osteoporotic fracture of hand
+SNOMED CT,704289006,Secondary osteoporotic fracture of foot
+SNOMED CT,704290002,Secondary osteoporotic fracture of fibula
+SNOMED CT,704291003,Secondary osteoporotic fracture of femur
+SNOMED CT,704292005,Secondary osteoporotic fracture of clavicle
+SNOMED CT,704293000,Secondary osteoporotic fracture of ankle
+SNOMED CT,704328003,Osteoporotic fracture of ankle
+SNOMED CT,704329006,Osteoporotic fracture of clavicle
+SNOMED CT,704330001,Osteoporotic fracture of femur
+SNOMED CT,704331002,Osteoporotic fracture of fibula
+SNOMED CT,704332009,Osteoporotic fracture of bone of foot
+SNOMED CT,704333004,Osteoporotic fracture of hand
+SNOMED CT,704334005,Osteoporotic fracture of proximal femur
+SNOMED CT,704335006,Osteoporotic fracture of humerus
+SNOMED CT,704336007,Osteoporotic fracture of radius
+SNOMED CT,704337003,Osteoporotic fracture of scapula
+SNOMED CT,704338008,Osteoporotic fracture of tibia
+SNOMED CT,704339000,Osteoporotic fracture of ulna
+SNOMED CT,707419009,Osteoporosis due to cystic fibrosis
+SNOMED CT,454201000124109,Pathological fracture of left ulna due to osteoporosis
+SNOMED CT,11304761000119103,Pathological fracture of right tibia due to osteoporosis
+SNOMED CT,11305081000119109,Pathological fracture of right fibula due to osteoporosis
+SNOMED CT,11305121000119106,Pathological fracture of left fibula due to osteoporosis
+SNOMED CT,11305721000119107,Pathological fracture of right humerus due to secondary osteoporosis
+SNOMED CT,11305761000119102,Pathological fracture of left humerus due to secondary osteoporosis
+SNOMED CT,11305801000119105,Pathological fracture of right clavicle due to osteoporosis
+SNOMED CT,11305841000119107,Pathological fracture of left clavicle due to osteoporosis
+SNOMED CT,11306041000119109,Pathological fracture of right clavicle due to secondary osteoporosis
+SNOMED CT,11309321000119105,Pathological fracture of right foot due to osteoporosis
+SNOMED CT,11309361000119100,Pathological fracture of left foot due to osteoporosis
+SNOMED CT,11309641000119108,Pathological fracture of right foot due to secondary osteoporosis
+SNOMED CT,11309681000119103,Pathological fracture of left foot due to secondary osteoporosis
+SNOMED CT,11309801000119107,Pathological fracture of right femur due to osteoporosis
+SNOMED CT,11309841000119109,Pathological fracture of left femur due to osteoporosis
+SNOMED CT,11310121000119102,Pathological fracture of right femur due to secondary osteoporosis
+SNOMED CT,11310161000119107,Pathological fracture of left femur due to secondary osteoporosis
+SNOMED CT,11310201000119102,Pathological fracture of right ankle due to osteoporosis
+SNOMED CT,11310241000119100,Pathological fracture of left ankle due to osteoporosis
+SNOMED CT,11311361000119103,Secondary osteoporotic fracture of thoracic vertebra
+SNOMED CT,11311441000119109,Secondary osteoporotic fracture of lumbar vertebra
+SNOMED CT,11311521000119104,Secondary osteoporotic fracture of cervical vertebra
+SNOMED CT,11311601000119109,Osteoporotic fracture of vertebra
+SNOMED CT,11311641000119106,Osteoporotic fracture of sacral vertebra
+SNOMED CT,11311801000119105,Secondary osteoporotic fracture of vertebra
+SNOMED CT,11311841000119107,Secondary osteoporotic fracture of sacral vertebra
+SNOMED CT,11312241000119101,Pathological fracture of right hand due to osteoporosis
+SNOMED CT,11312281000119106,Pathological fracture of left hand due to osteoporosis
+SNOMED CT,11312721000119102,Pathological fracture of right radius due to osteoporosis
+SNOMED CT,11312761000119107,Pathological fracture of left radius due to osteoporosis
+SNOMED CT,11313281000119104,Pathological fracture of right scapula due to osteoporosis
+SNOMED CT,11313321000119109,Pathological fracture of left scapula due to osteoporosis
+SNOMED CT,11314841000119105,Secondary osteoporotic fracture
+SNOMED CT,11314881000119100,Pathological fracture of right hip due to osteoporosis
+SNOMED CT,11314921000119107,Pathological fracture of left hip due to osteoporosis
+SNOMED CT,11315121000119108,Pathological fracture of proximal end of right femur due to secondary osteoporosis
+SNOMED CT,11315161000119103,Pathological fracture of left hip due to secondary osteoporosis
+SNOMED CT,11874341000119106,Osteoporotic fracture of left rib
+SNOMED CT,11874381000119101,Osteoporotic fracture of right rib
+SNOMED CT,16280471000119103,Pathological fracture of left tibia due to osteoporosis
+SNOMED CT,11305481000119104,Osteoporotic fracture of right humerus
+SNOMED CT,11305521000119104,Osteoporotic fracture of left humerus
+SNOMED CT,11312681000119108,Osteoporotic fracture of right ulna
+SNOMED CT,15743005,Posttraumatic osteoporosis

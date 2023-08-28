@@ -1,0 +1,1 @@
+# First-Time Prescribing of GLP-1 Receptor Agonists from 2018-2023: A Descriptive Analysis

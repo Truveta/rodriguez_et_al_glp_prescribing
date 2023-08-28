@@ -1,0 +1,393 @@
+CodeSystem,ConceptCode,ConceptName
+ICD10CM,H40.10X0,"Unspecified open-angle glaucoma, stage unspecified"
+ICD10CM,H40.10X1,"Unspecified open-angle glaucoma, mild stage"
+ICD10CM,H40.10X2,"Unspecified open-angle glaucoma, moderate stage"
+ICD10CM,H40.10X3,"Unspecified open-angle glaucoma, severe stage"
+ICD10CM,H40.10X4,"Unspecified open-angle glaucoma, indeterminate stage"
+ICD10CM,H40.1110,"Primary open-angle glaucoma, right eye, stage unspecified"
+ICD10CM,H40.1111,"Primary open-angle glaucoma, right eye, mild stage"
+ICD10CM,H40.1112,"Primary open-angle glaucoma, right eye, moderate stage"
+ICD10CM,H40.1113,"Primary open-angle glaucoma, right eye, severe stage"
+ICD10CM,H40.1114,"Primary open-angle glaucoma, right eye, indeterminate stage"
+ICD10CM,H40.1120,"Primary open-angle glaucoma, left eye, stage unspecified"
+ICD10CM,H40.1121,"Primary open-angle glaucoma, left eye, mild stage"
+ICD10CM,H40.1122,"Primary open-angle glaucoma, left eye, moderate stage"
+ICD10CM,H40.1123,"Primary open-angle glaucoma, left eye, severe stage"
+ICD10CM,H40.1124,"Primary open-angle glaucoma, left eye, indeterminate stage"
+ICD10CM,H40.1130,"Primary open-angle glaucoma, bilateral, stage unspecified"
+ICD10CM,H40.1131,"Primary open-angle glaucoma, bilateral, mild stage"
+ICD10CM,H40.1132,"Primary open-angle glaucoma, bilateral, moderate stage"
+ICD10CM,H40.1133,"Primary open-angle glaucoma, bilateral, severe stage"
+ICD10CM,H40.1134,"Primary open-angle glaucoma, bilateral, indeterminate stage"
+ICD10CM,H40.1210,"Low-tension glaucoma, right eye, stage unspecified"
+ICD10CM,H40.1211,"Low-tension glaucoma, right eye, mild stage"
+ICD10CM,H40.1212,"Low-tension glaucoma, right eye, moderate stage"
+ICD10CM,H40.1213,"Low-tension glaucoma, right eye, severe stage"
+ICD10CM,H40.1214,"Low-tension glaucoma, right eye, indeterminate stage"
+ICD10CM,H40.1220,"Low-tension glaucoma, left eye, stage unspecified"
+ICD10CM,H40.1221,"Low-tension glaucoma, left eye, mild stage"
+ICD10CM,H40.1222,"Low-tension glaucoma, left eye, moderate stage"
+ICD10CM,H40.1223,"Low-tension glaucoma, left eye, severe stage"
+ICD10CM,H40.1224,"Low-tension glaucoma, left eye, indeterminate stage"
+ICD10CM,H40.1230,"Low-tension glaucoma, bilateral, stage unspecified"
+ICD10CM,H40.1231,"Low-tension glaucoma, bilateral, mild stage"
+ICD10CM,H40.1232,"Low-tension glaucoma, bilateral, moderate stage"
+ICD10CM,H40.1233,"Low-tension glaucoma, bilateral, severe stage"
+ICD10CM,H40.1234,"Low-tension glaucoma, bilateral, indeterminate stage"
+ICD10CM,H40.1310,"Pigmentary glaucoma, right eye, stage unspecified"
+ICD10CM,H40.1311,"Pigmentary glaucoma, right eye, mild stage"
+ICD10CM,H40.1312,"Pigmentary glaucoma, right eye, moderate stage"
+ICD10CM,H40.1313,"Pigmentary glaucoma, right eye, severe stage"
+ICD10CM,H40.1314,"Pigmentary glaucoma, right eye, indeterminate stage"
+ICD10CM,H40.1320,"Pigmentary glaucoma, left eye, stage unspecified"
+ICD10CM,H40.1321,"Pigmentary glaucoma, left eye, mild stage"
+ICD10CM,H40.1322,"Pigmentary glaucoma, left eye, moderate stage"
+ICD10CM,H40.1323,"Pigmentary glaucoma, left eye, severe stage"
+ICD10CM,H40.1324,"Pigmentary glaucoma, left eye, indeterminate stage"
+ICD10CM,H40.1330,"Pigmentary glaucoma, bilateral, stage unspecified"
+ICD10CM,H40.1331,"Pigmentary glaucoma, bilateral, mild stage"
+ICD10CM,H40.1332,"Pigmentary glaucoma, bilateral, moderate stage"
+ICD10CM,H40.1333,"Pigmentary glaucoma, bilateral, severe stage"
+ICD10CM,H40.1334,"Pigmentary glaucoma, bilateral, indeterminate stage"
+ICD10CM,H40.1410,"Capsular glaucoma with pseudoexfoliation of lens, right eye, stage unspecified"
+ICD10CM,H40.1411,"Capsular glaucoma with pseudoexfoliation of lens, right eye, mild stage"
+ICD10CM,H40.1412,"Capsular glaucoma with pseudoexfoliation of lens, right eye, moderate stage"
+ICD10CM,H40.1413,"Capsular glaucoma with pseudoexfoliation of lens, right eye, severe stage"
+ICD10CM,H40.1414,"Capsular glaucoma with pseudoexfoliation of lens, right eye, indeterminate stage"
+ICD10CM,H40.1420,"Capsular glaucoma with pseudoexfoliation of lens, left eye, stage unspecified"
+ICD10CM,H40.1421,"Capsular glaucoma with pseudoexfoliation of lens, left eye, mild stage"
+ICD10CM,H40.1422,"Capsular glaucoma with pseudoexfoliation of lens, left eye, moderate stage"
+ICD10CM,H40.1423,"Capsular glaucoma with pseudoexfoliation of lens, left eye, severe stage"
+ICD10CM,H40.1424,"Capsular glaucoma with pseudoexfoliation of lens, left eye, indeterminate stage"
+ICD10CM,H40.1430,"Capsular glaucoma with pseudoexfoliation of lens, bilateral, stage unspecified"
+ICD10CM,H40.1431,"Capsular glaucoma with pseudoexfoliation of lens, bilateral, mild stage"
+ICD10CM,H40.1432,"Capsular glaucoma with pseudoexfoliation of lens, bilateral, moderate stage"
+ICD10CM,H40.1433,"Capsular glaucoma with pseudoexfoliation of lens, bilateral, severe stage"
+ICD10CM,H40.1434,"Capsular glaucoma with pseudoexfoliation of lens, bilateral, indeterminate stage"
+ICD10CM,H40.151,"Residual stage of open-angle glaucoma, right eye"
+ICD10CM,H40.152,"Residual stage of open-angle glaucoma, left eye"
+ICD10CM,H40.153,"Residual stage of open-angle glaucoma, bilateral"
+ICD10CM,H40.20X0,"Unspecified primary angle-closure glaucoma, stage unspecified"
+ICD10CM,H40.20X1,"Unspecified primary angle-closure glaucoma, mild stage"
+ICD10CM,H40.20X2,"Unspecified primary angle-closure glaucoma, moderate stage"
+ICD10CM,H40.20X3,"Unspecified primary angle-closure glaucoma, severe stage"
+ICD10CM,H40.20X4,"Unspecified primary angle-closure glaucoma, indeterminate stage"
+ICD10CM,H40.211,"Acute angle-closure glaucoma, right eye"
+ICD10CM,H40.212,"Acute angle-closure glaucoma, left eye"
+ICD10CM,H40.213,"Acute angle-closure glaucoma, bilateral"
+ICD10CM,H40.2210,"Chronic angle-closure glaucoma, right eye, stage unspecified"
+ICD10CM,H40.2211,"Chronic angle-closure glaucoma, right eye, mild stage"
+ICD10CM,H40.2212,"Chronic angle-closure glaucoma, right eye, moderate stage"
+ICD10CM,H40.2213,"Chronic angle-closure glaucoma, right eye, severe stage"
+ICD10CM,H40.2214,"Chronic angle-closure glaucoma, right eye, indeterminate stage"
+ICD10CM,H40.2220,"Chronic angle-closure glaucoma, left eye, stage unspecified"
+ICD10CM,H40.2221,"Chronic angle-closure glaucoma, left eye, mild stage"
+ICD10CM,H40.2222,"Chronic angle-closure glaucoma, left eye, moderate stage"
+ICD10CM,H40.2223,"Chronic angle-closure glaucoma, left eye, severe stage"
+ICD10CM,H40.2224,"Chronic angle-closure glaucoma, left eye, indeterminate stage"
+ICD10CM,H40.2230,"Chronic angle-closure glaucoma, bilateral, stage unspecified"
+ICD10CM,H40.2231,"Chronic angle-closure glaucoma, bilateral, mild stage"
+ICD10CM,H40.2232,"Chronic angle-closure glaucoma, bilateral, moderate stage"
+ICD10CM,H40.2233,"Chronic angle-closure glaucoma, bilateral, severe stage"
+ICD10CM,H40.2234,"Chronic angle-closure glaucoma, bilateral, indeterminate stage"
+ICD10CM,H40.231,"Intermittent angle-closure glaucoma, right eye"
+ICD10CM,H40.232,"Intermittent angle-closure glaucoma, left eye"
+ICD10CM,H40.233,"Intermittent angle-closure glaucoma, bilateral"
+ICD10CM,H40.241,"Residual stage of angle-closure glaucoma, right eye"
+ICD10CM,H40.242,"Residual stage of angle-closure glaucoma, left eye"
+ICD10CM,H40.243,"Residual stage of angle-closure glaucoma, bilateral"
+ICD10CM,H40.31X0,"Glaucoma secondary to eye trauma, right eye, stage unspecified"
+ICD10CM,H40.31X1,"Glaucoma secondary to eye trauma, right eye, mild stage"
+ICD10CM,H40.31X2,"Glaucoma secondary to eye trauma, right eye, moderate stage"
+ICD10CM,H40.31X3,"Glaucoma secondary to eye trauma, right eye, severe stage"
+ICD10CM,H40.31X4,"Glaucoma secondary to eye trauma, right eye, indeterminate stage"
+ICD10CM,H40.32X0,"Glaucoma secondary to eye trauma, left eye, stage unspecified"
+ICD10CM,H40.32X1,"Glaucoma secondary to eye trauma, left eye, mild stage"
+ICD10CM,H40.32X2,"Glaucoma secondary to eye trauma, left eye, moderate stage"
+ICD10CM,H40.32X3,"Glaucoma secondary to eye trauma, left eye, severe stage"
+ICD10CM,H40.32X4,"Glaucoma secondary to eye trauma, left eye, indeterminate stage"
+ICD10CM,H40.33X0,"Glaucoma secondary to eye trauma, bilateral, stage unspecified"
+ICD10CM,H40.33X1,"Glaucoma secondary to eye trauma, bilateral, mild stage"
+ICD10CM,H40.33X2,"Glaucoma secondary to eye trauma, bilateral, moderate stage"
+ICD10CM,H40.33X3,"Glaucoma secondary to eye trauma, bilateral, severe stage"
+ICD10CM,H40.33X4,"Glaucoma secondary to eye trauma, bilateral, indeterminate stage"
+ICD10CM,H40.41X0,"Glaucoma secondary to eye inflammation, right eye, stage unspecified"
+ICD10CM,H40.41X1,"Glaucoma secondary to eye inflammation, right eye, mild stage"
+ICD10CM,H40.41X2,"Glaucoma secondary to eye inflammation, right eye, moderate stage"
+ICD10CM,H40.41X3,"Glaucoma secondary to eye inflammation, right eye, severe stage"
+ICD10CM,H40.41X4,"Glaucoma secondary to eye inflammation, right eye, indeterminate stage"
+ICD10CM,H40.42X0,"Glaucoma secondary to eye inflammation, left eye, stage unspecified"
+ICD10CM,H40.42X1,"Glaucoma secondary to eye inflammation, left eye, mild stage"
+ICD10CM,H40.42X2,"Glaucoma secondary to eye inflammation, left eye, moderate stage"
+ICD10CM,H40.42X3,"Glaucoma secondary to eye inflammation, left eye, severe stage"
+ICD10CM,H40.42X4,"Glaucoma secondary to eye inflammation, left eye, indeterminate stage"
+ICD10CM,H40.43X0,"Glaucoma secondary to eye inflammation, bilateral, stage unspecified"
+ICD10CM,H40.43X1,"Glaucoma secondary to eye inflammation, bilateral, mild stage"
+ICD10CM,H40.43X2,"Glaucoma secondary to eye inflammation, bilateral, moderate stage"
+ICD10CM,H40.43X3,"Glaucoma secondary to eye inflammation, bilateral, severe stage"
+ICD10CM,H40.43X4,"Glaucoma secondary to eye inflammation, bilateral, indeterminate stage"
+ICD10CM,H40.51X0,"Glaucoma secondary to other eye disorders, right eye, stage unspecified"
+ICD10CM,H40.51X1,"Glaucoma secondary to other eye disorders, right eye, mild stage"
+ICD10CM,H40.51X2,"Glaucoma secondary to other eye disorders, right eye, moderate stage"
+ICD10CM,H40.51X3,"Glaucoma secondary to other eye disorders, right eye, severe stage"
+ICD10CM,H40.51X4,"Glaucoma secondary to other eye disorders, right eye, indeterminate stage"
+ICD10CM,H40.52X0,"Glaucoma secondary to other eye disorders, left eye, stage unspecified"
+ICD10CM,H40.52X1,"Glaucoma secondary to other eye disorders, left eye, mild stage"
+ICD10CM,H40.52X2,"Glaucoma secondary to other eye disorders, left eye, moderate stage"
+ICD10CM,H40.52X3,"Glaucoma secondary to other eye disorders, left eye, severe stage"
+ICD10CM,H40.52X4,"Glaucoma secondary to other eye disorders, left eye, indeterminate stage"
+ICD10CM,H40.53X0,"Glaucoma secondary to other eye disorders, bilateral, stage unspecified"
+ICD10CM,H40.53X1,"Glaucoma secondary to other eye disorders, bilateral, mild stage"
+ICD10CM,H40.53X2,"Glaucoma secondary to other eye disorders, bilateral, moderate stage"
+ICD10CM,H40.53X3,"Glaucoma secondary to other eye disorders, bilateral, severe stage"
+ICD10CM,H40.53X4,"Glaucoma secondary to other eye disorders, bilateral, indeterminate stage"
+ICD10CM,H40.61X0,"Glaucoma secondary to drugs, right eye, stage unspecified"
+ICD10CM,H40.61X1,"Glaucoma secondary to drugs, right eye, mild stage"
+ICD10CM,H40.61X2,"Glaucoma secondary to drugs, right eye, moderate stage"
+ICD10CM,H40.61X3,"Glaucoma secondary to drugs, right eye, severe stage"
+ICD10CM,H40.61X4,"Glaucoma secondary to drugs, right eye, indeterminate stage"
+ICD10CM,H40.62X0,"Glaucoma secondary to drugs, left eye, stage unspecified"
+ICD10CM,H40.62X1,"Glaucoma secondary to drugs, left eye, mild stage"
+ICD10CM,H40.62X2,"Glaucoma secondary to drugs, left eye, moderate stage"
+ICD10CM,H40.62X3,"Glaucoma secondary to drugs, left eye, severe stage"
+ICD10CM,H40.62X4,"Glaucoma secondary to drugs, left eye, indeterminate stage"
+ICD10CM,H40.63X0,"Glaucoma secondary to drugs, bilateral, stage unspecified"
+ICD10CM,H40.63X1,"Glaucoma secondary to drugs, bilateral, mild stage"
+ICD10CM,H40.63X2,"Glaucoma secondary to drugs, bilateral, moderate stage"
+ICD10CM,H40.63X3,"Glaucoma secondary to drugs, bilateral, severe stage"
+ICD10CM,H40.63X4,"Glaucoma secondary to drugs, bilateral, indeterminate stage"
+ICD10CM,H40.811,"Glaucoma with increased episcleral venous pressure, right eye"
+ICD10CM,H40.812,"Glaucoma with increased episcleral venous pressure, left eye"
+ICD10CM,H40.813,"Glaucoma with increased episcleral venous pressure, bilateral"
+ICD10CM,H40.821,"Hypersecretion glaucoma, right eye"
+ICD10CM,H40.822,"Hypersecretion glaucoma, left eye"
+ICD10CM,H40.823,"Hypersecretion glaucoma, bilateral"
+ICD10CM,H40.831,"Aqueous misdirection, right eye"
+ICD10CM,H40.832,"Aqueous misdirection, left eye"
+ICD10CM,H40.833,"Aqueous misdirection, bilateral"
+ICD10CM,H40.89,Other specified glaucoma
+ICD10CM,Q15.0,Congenital glaucoma
+ICD10CM,H40.1510,"Residual stage of open-angle glaucoma, right eye, stage unspecified"
+ICD10CM,H40.1511,"Residual stage of open-angle glaucoma, right eye, mild stage"
+ICD10CM,H40.1512,"Residual stage of open-angle glaucoma, right eye, moderate stage"
+ICD10CM,H40.1513,"Residual stage of open-angle glaucoma, right eye, severe stage"
+ICD10CM,H40.1514,"Residual stage of open-angle glaucoma, right eye, indeterminate stage"
+ICD10CM,H40.1520,"Residual stage of open-angle glaucoma, left eye, stage unspecified"
+ICD10CM,H40.1521,"Residual stage of open-angle glaucoma, left eye, mild stage"
+ICD10CM,H40.1522,"Residual stage of open-angle glaucoma, left eye, moderate stage"
+ICD10CM,H40.1523,"Residual stage of open-angle glaucoma, left eye, severe stage"
+ICD10CM,H40.1524,"Residual stage of open-angle glaucoma, left eye, indeterminate stage"
+ICD10CM,H40.1530,"Residual stage of open-angle glaucoma, bilateral, stage unspecified"
+ICD10CM,H40.1531,"Residual stage of open-angle glaucoma, bilateral, mild stage"
+ICD10CM,H40.1532,"Residual stage of open-angle glaucoma, bilateral, moderate stage"
+ICD10CM,H40.1533,"Residual stage of open-angle glaucoma, bilateral, severe stage"
+ICD10CM,H40.1534,"Residual stage of open-angle glaucoma, bilateral, indeterminate stage"
+SNOMED CT,1654001,Corticosteroid-induced glaucoma
+SNOMED CT,15374009,Aphakic glaucoma
+SNOMED CT,19144002,Absolute glaucoma
+SNOMED CT,19309007,Glaucoma associated with vascular disorder
+SNOMED CT,21571006,Secondary angle-closure glaucoma
+SNOMED CT,21928008,Secondary open-angle glaucoma
+SNOMED CT,23986001,Glaucoma
+SNOMED CT,27735002,Glaucoma associated with tumors AND/OR cysts
+SNOMED CT,29369005,Hypersecretion glaucoma
+SNOMED CT,30041005,Acute angle-closure glaucoma
+SNOMED CT,32893002,Phacolytic glaucoma
+SNOMED CT,33647009,Chronic angle-closure glaucoma
+SNOMED CT,34623005,Glaucoma with increased episcleral venous pressure
+SNOMED CT,37155002,Glaucoma associated with ocular inflammation
+SNOMED CT,45623002,Glaucoma associated with anterior segment anomaly
+SNOMED CT,46168003,Pigmentary glaucoma
+SNOMED CT,50485007,Low tension glaucoma
+SNOMED CT,53667005,Glaucoma associated with systemic syndromes
+SNOMED CT,65460003,Intermittent angle-closure glaucoma
+SNOMED CT,66725002,Glaucoma due to perforating injury
+SNOMED CT,66747002,Glaucoma associated with ocular disorder
+SNOMED CT,68241007,Glaucoma associated with ocular trauma
+SNOMED CT,77075001,Primary open angle glaucoma
+SNOMED CT,84333006,Phacogenic glaucoma
+SNOMED CT,84494001,Open-angle glaucoma
+SNOMED CT,89215000,Postoperative angle-closure glaucoma
+SNOMED CT,92829008,Glaucoma due to combination of mechanisms
+SNOMED CT,95213001,Primary glaucoma due to combination of mechanisms
+SNOMED CT,95250000,Secondary glaucoma due to combination mechanisms
+SNOMED CT,95717004,Secondary glaucoma
+SNOMED CT,111513000,Advanced open-angle glaucoma
+SNOMED CT,111514006,Pseudoexfoliation glaucoma
+SNOMED CT,698840003,Neovascular glaucoma due to hyphema
+SNOMED CT,713457002,Neovascular glaucoma due to diabetes mellitus
+SNOMED CT,715144004,Glaucoma caused by silicone oil
+SNOMED CT,716166002,Microcornea with glaucoma and absent frontal sinus syndrome
+SNOMED CT,721898008,Corticosteroid-induced glaucoma of bilateral eyes
+SNOMED CT,722321001,Corticosteroid-induced glaucoma of left eye
+SNOMED CT,722329004,Corticosteroid-induced glaucoma of right eye
+SNOMED CT,787051000,Open-angle glaucoma of left eye
+SNOMED CT,787052007,Open-angle glaucoma of right eye
+SNOMED CT,24151000119106,Steroid-induced open angle glaucoma
+SNOMED CT,41911000119107,Glaucoma due to type 2 diabetes mellitus
+SNOMED CT,60981000119103,Glaucoma due to diabetes mellitus type 1
+SNOMED CT,336611000119109,Acute angle-closure glaucoma of right eye
+SNOMED CT,336631000119104,Absolute glaucoma right eye
+SNOMED CT,342221000119104,Acute angle-closure glaucoma of left eye
+SNOMED CT,342241000119105,Absolute glaucoma left eye
+SNOMED CT,347381000119106,Bilateral acute angle-closure glaucoma
+SNOMED CT,347401000119106,Bilateral absolute glaucoma
+SNOMED CT,12239301000119102,Bilateral open-angle glaucoma
+SNOMED CT,12239421000119101,Bilateral glaucoma
+SNOMED CT,12239461000119106,Glaucoma of left eye
+SNOMED CT,12239501000119106,Glaucoma of right eye
+SNOMED CT,15633281000119103,Bilateral primary open angle glaucoma
+SNOMED CT,15633321000119108,Primary open angle glaucoma of left eye
+SNOMED CT,15640441000119104,Primary open angle glaucoma of right eye
+SNOMED CT,15673001000119103,Congenital glaucoma of bilateral eyes
+SNOMED CT,15679801000119105,Bilateral uveitis-glaucoma-hyphema syndrome of eyes
+SNOMED CT,15736441000119108,Primary angle-closure glaucoma of bilateral eyes
+SNOMED CT,15736481000119103,Primary angle-closure glaucoma of right eye
+SNOMED CT,15736521000119103,Primary angle-closure glaucoma of left eye
+SNOMED CT,15736561000119108,Neovascular glaucoma of bilateral eyes
+SNOMED CT,15736601000119108,Neovascular glaucoma of right eye
+SNOMED CT,15736641000119105,Neovascular glaucoma of left eye
+SNOMED CT,15736681000119100,Narrow-angle glaucoma of right eye
+SNOMED CT,15736721000119106,Bilateral angle-closure glaucoma
+SNOMED CT,15736761000119101,Narrow angle glaucoma of left eye
+SNOMED CT,15738841000119105,Glaucoma of bilateral eyes due to combination of mechanisms
+SNOMED CT,15738881000119100,Glaucoma of left eye due to combination of mechanisms
+SNOMED CT,15738921000119107,Glaucoma of right eye due to combination of mechanisms
+SNOMED CT,15739041000119106,Glaucoma of bilateral eyes due to iris anomaly
+SNOMED CT,15739081000119101,Glaucoma of bilateral eyes due to anterior segment anomaly
+SNOMED CT,15739121000119104,Glaucoma of right eye due to anterior segment anomaly
+SNOMED CT,15739161000119109,Glaucoma of left eye due to anterior segment anomaly
+SNOMED CT,15739201000119104,Glaucoma of left eye due to ocular vascular disorder
+SNOMED CT,15739241000119102,Glaucoma of right eye due to ocular vascular disorder
+SNOMED CT,15739281000119107,Glaucoma of bilateral eyes due to ocular vascular disorder
+SNOMED CT,15739321000119102,Glaucoma of right eye due to chamber angle anomaly
+SNOMED CT,15739361000119107,Glaucoma of bilateral eyes due to chamber angle anomaly
+SNOMED CT,15739401000119103,Glaucoma of left eye due to chamber angle anomaly
+SNOMED CT,15739441000119101,Glaucoma of right eye due to trauma
+SNOMED CT,15739481000119106,Glaucoma of left eye due to trauma
+SNOMED CT,15739561000119101,Glaucoma of right eye due to lens disorder
+SNOMED CT,15739641000119104,Glaucoma of left eye due to lens disorder
+SNOMED CT,15739681000119109,Glaucoma of right eye due to systemic disorder
+SNOMED CT,15739721000119103,Glaucoma of left eye due to systemic disorder
+SNOMED CT,15739761000119108,Glaucoma of bilateral eyes due to systemic disorder
+SNOMED CT,15993671000119108,Open-angle glaucoma of right eye caused by steroid
+SNOMED CT,15993711000119107,Open-angle glaucoma of left eye caused by steroid
+SNOMED CT,15993751000119108,Open-angle glaucoma of bilateral eyes caused by steroid
+SNOMED CT,15996831000119101,Glaucoma caused by Onchocerca volvulus
+SNOMED CT,314017009,Acute-on-chronic glaucoma
+SNOMED CT,314033007,Uveitic glaucoma
+SNOMED CT,314784002,Secondary angle-closure glaucoma - synechial
+SNOMED CT,370504007,Aqueous humor misdirect
+SNOMED CT,392030001,Hemolytic glaucoma
+SNOMED CT,392288006,Primary angle-closure glaucoma
+SNOMED CT,392291006,Angle-closure glaucoma
+SNOMED CT,392300000,Phacomorphic glaucoma
+SNOMED CT,392352004,Angle recession glaucoma
+SNOMED CT,404648005,Lens particle glaucoma
+SNOMED CT,415176004,Primary congenital glaucoma
+SNOMED CT,444863008,Anatomical narrow angle glaucoma with borderline intraocular pressure
+SNOMED CT,193548006,Steroid-induced glaucoma glaucomatous stage
+SNOMED CT,193552006,Glaucoma due to chamber angle anomaly
+SNOMED CT,193553001,Glaucoma due to iris anomaly
+SNOMED CT,193555008,Glaucoma due to systemic syndrome
+SNOMED CT,193561006,Secondary angle-closure glaucoma with pupillary block
+SNOMED CT,193562004,Glaucoma due to ocular vascular disorder
+SNOMED CT,204113001,Congenital glaucoma
+SNOMED CT,206248004,Traumatic glaucoma due to birth trauma
+SNOMED CT,232081005,Iatrogenic glaucoma
+SNOMED CT,232082003,Iatrogenic angle-closure glaucoma
+SNOMED CT,232083008,Glaucoma and corneal anomaly
+SNOMED CT,232086000,Neovascular glaucoma
+SNOMED CT,232087009,Glaucoma with intraocular hemorrhage
+SNOMED CT,232088004,Ghost cell glaucoma
+SNOMED CT,232090003,Glaucoma following surgery
+SNOMED CT,267625001,Glaucoma due to ocular tumor or cyst
+SNOMED CT,275477002,Glaucoma due to ocular cyst
+SNOMED CT,1231271005,Glaucoma due to and following retinopathy of prematurity
+SNOMED CT,1231270006,Glaucoma following ocular onchocerciasis
+SNOMED CT,334961000119105,Right secondary angle-closure glaucoma due to pupil block
+SNOMED CT,349231000119108,Bilateral aqueous humor misdirection of eyes
+SNOMED CT,1231243004,High pressure primary open-angle glaucoma
+SNOMED CT,1207009,Glaucomatous atrophy of optic disc
+SNOMED CT,29538005,Glaucomatocyclitic crisis
+SNOMED CT,35472004,Open angle with borderline intraocular pressure
+SNOMED CT,71111008,Glaucoma of childhood
+SNOMED CT,93435005,Drug-induced glaucoma
+SNOMED CT,302895007,Steroid-induced glaucoma - borderline
+SNOMED CT,392029006,Uveitis-glaucoma-hyphema syndrome
+SNOMED CT,404634005,Glaucoma associated with iridocorneal endothelial syndrome
+SNOMED CT,415501002,Schwartz ocular syndrome
+SNOMED CT,193531003,Borderline glaucoma
+SNOMED CT,193533000,Open-angle glaucoma - borderline
+SNOMED CT,193534006,Angle-closure glaucoma - borderline
+SNOMED CT,193556009,"Glaucoma in endocrine, nutritional and metabolic diseases"
+SNOMED CT,232080006,Plateau iris
+SNOMED CT,1003425007,Glaucoma due to Lowe syndrome
+SNOMED CT,1003428009,Glaucoma due to congenital anomaly of eye
+SNOMED CT,1003657004,Congenital glaucoma of left eye
+SNOMED CT,15995551000119104,Bilateral glaucoma of eyes due to plateau iris
+SNOMED CT,334761000119107,Intermittent angle-closure glaucoma of right eye
+SNOMED CT,340361000119101,Intermittent angle-closure glaucoma of left eye
+SNOMED CT,345701000119106,Bilateral intermittent angle-closure glaucoma
+SNOMED CT,678431000119109,Bilateral glaucoma of eyes due to increased episcleral venous pressure
+SNOMED CT,678441000119100,Glaucoma of left eye due to increased episcleral venous pressure
+SNOMED CT,678451000119103,Glaucoma of right eye due to increased episcleral venous pressure
+SNOMED CT,890423003,Secondary childhood glaucoma following congenital cataract surgery
+SNOMED CT,897585008,Bilateral primary congenital glaucoma
+SNOMED CT,1137633000,Secondary angle-closure glaucoma due to iridocorneal endothelial syndrome
+SNOMED CT,1196923000,Neovascular glaucoma due to diabetes mellitus type 1
+SNOMED CT,718851007,Cataract glaucoma syndrome
+SNOMED CT,719976001,Glaucoma and sleep apnea syndrome
+SNOMED CT,721974000,Lowry MacLean syndrome
+SNOMED CT,722450007,GEMSS syndrome
+SNOMED CT,723503006,"Retinal degeneration, nanophthalmos, glaucoma syndrome"
+SNOMED CT,733086003,Pseudoprogeria syndrome
+SNOMED CT,733116005,"Aniridia, renal agenesis, psychomotor retardation syndrome"
+SNOMED CT,733455003,"Spastic paraplegia, glaucoma, intellectual disability syndrome"
+SNOMED CT,736838001,Cupping of optic disc co-occurrent and due to open angle glaucoma
+SNOMED CT,737006004,Cupping of optic discs of bilateral eyes co-occurrent and due to open-angle glaucoma
+SNOMED CT,770776002,Borderline angle-closure glaucoma of right eye
+SNOMED CT,770777006,Borderline angle-closure glaucoma of left eye
+SNOMED CT,783246000,"Megalocornea, spherophakia, secondary glaucoma syndrome"
+SNOMED CT,788945006,Glaucoma caused by contact lens
+SNOMED CT,788946007,Glaucoma due to eye inflammation
+SNOMED CT,788947003,Glaucoma due to intraocular neoplasm
+SNOMED CT,788948008,Glaucoma due to retinal detachment
+SNOMED CT,788995007,Normal pressure primary open-angle glaucoma
+SNOMED CT,833278008,Glaucoma suspect
+SNOMED CT,860798008,Glaucoma due to diabetes mellitus
+SNOMED CT,331471000119105,Uveitic glaucoma of right eye
+SNOMED CT,332871000119103,Pseudoexfoliation glaucoma of right eye
+SNOMED CT,333111000119107,Pigmentary glaucoma of right eye
+SNOMED CT,333151000119108,Phacolytic glaucoma of right eye
+SNOMED CT,334321000119101,Low tension glaucoma of right eye
+SNOMED CT,336031000119105,Anatomic narrow angle glaucoma of right eye
+SNOMED CT,337081000119109,Uveitic glaucoma of left eye
+SNOMED CT,338481000119100,Pseudoexfoliation glaucoma of left eye
+SNOMED CT,338721000119108,Pigmentary glaucoma of left eye
+SNOMED CT,338761000119103,Phacolytic glaucoma of left eye
+SNOMED CT,339921000119104,Low tension glaucoma of left eye
+SNOMED CT,341641000119100,Anatomic narrow angle glaucoma of left eye
+SNOMED CT,343161000119109,Bilateral uveitic glaucoma of eyes
+SNOMED CT,344251000119103,Bilateral pseudoexfoliation glaucoma of eyes
+SNOMED CT,344491000119107,Bilateral pigmentary glaucoma of eyes
+SNOMED CT,345291000119109,Bilateral low tension glaucoma of eyes
+SNOMED CT,346861000119107,Bilateral eye anatomic narrow angle glaucoma
+SNOMED CT,348361000119103,Aphakic glaucoma of right eye
+SNOMED CT,348811000119108,Aphakic glaucoma of left eye
+SNOMED CT,349311000119106,Bilateral aphakic glaucoma
+SNOMED CT,678401000119102,Bilateral glaucoma of eyes caused by drug
+SNOMED CT,678411000119104,Glaucoma of left eye caused by drug
+SNOMED CT,678421000119106,Glaucoma of right eye caused by drug
+SNOMED CT,678471000119107,Aqueous humor misdirection of left eye
+SNOMED CT,678481000119105,Aqueous humor misdirection of right eye
+SNOMED CT,15673041000119101,Congenital glaucoma of right eye
+SNOMED CT,15673081000119106,Congenital glaucoma of left eye
+SNOMED CT,15679721000119107,Uveitis-hyphema-glaucoma syndrome of right eye
+SNOMED CT,15679761000119102,Uveitis-hyphema-glaucoma syndrome of left eye
+SNOMED CT,15738761000119100,Bilateral eye borderline angle-closure glaucoma
+SNOMED CT,15739801000119100,Cupping of left optic disc due to open-angle glaucoma of left eye
+SNOMED CT,15739881000119108,Cupping of right optic disc due to open-angle glaucoma of right eye
+SNOMED CT,340571000119101,Left secondary angle-closure glaucoma due to pupil block
+SNOMED CT,345881000119107,Bilateral secondary angle-closure glaucoma due to pupil block
+SNOMED CT,1196922005,Neovascular glaucoma due to diabetes mellitus type 2
